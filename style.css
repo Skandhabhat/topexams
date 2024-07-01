@@ -1,0 +1,84 @@
+body{
+background-color: black;
+    padding-left: 30px;
+padding-right: 30px;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+
+.m{
+    background-image: url('https://t4.ftcdn.net/jpg/04/07/74/11/360_F_407741127_eZXxBH1BUCLHjxHNkfprktSQE5E8FLrj.jpg');
+background-size: cover;background-attachment: fixed;background-repeat: no-repeat;
+}
+
+
+
+.i{
+padding-left: 100px;
+
+}
+
+.img{
+width: 450px; height: 450px;
+
+}
+
+p{
+font-size:larger;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: justify;
+
+}
+
+h1{
+font-size: xx-large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+h2{
+font-size: x-large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: justify;
+
+}
+
+
+.a{
+text-shadow: 0ppx 100px 5px 10px;
+
+
+}
+
+
+
+
+h1{
+text-shadow: 10px 10px 10px blue;
+
+}
+
+
+img{
+
+box-shadow: 20px 20px 5px lawngreen;
+
+
+}
+
+
+body{
+
+border: 8px double white;
+
+
+}
+
+
+
+
+
+
+
